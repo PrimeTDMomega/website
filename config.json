@@ -1,0 +1,56 @@
+{
+  "ascii": [
+    "██████╗░██████╗░██╗███╗░░░███╗███████╗",
+    "██╔══██╗██╔══██╗██║████╗░████║██╔════╝",
+    "██████╔╝██████╔╝██║██╔████╔██║█████╗░░",
+    "██╔═══╝░██╔══██╗██║██║╚██╔╝██║██╔══╝░░",
+    "██║░░░░░██║░░██║██║██║░╚═╝░██║███████╗",
+    "╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═╝░░░░░╚═╝╚══════╝"
+  ],
+  "title": "Prime",
+  "username": "prime",
+  "hostname": "wk",
+  "password": "password",
+  "repoLink": "https://github.com/PrimeTDMomega/website/",
+  "social": {
+    "Discord": "primetdm",
+    "github": "PrimeTDMomega",
+    "linkedin": "none"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to primeOS.",
+  "projects": [
+    [
+      "lunarCrack",
+      "A cracked version of Lunar Client.",
+      "https://github.com/PrimeTDMomega/lunarCrack"
+    ],
+    [
+      "RCP",
+      "A property of cubes.",
+      "https://github.com/nasan016/webshell"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
